@@ -1,0 +1,9 @@
+{
+  "name": "Ruchi",
+  "age": 22,
+  "address": {
+    "city": "Chennai",
+    "zip": "603203"
+  },
+  "subjects": ["Math", "Science"]
+}
